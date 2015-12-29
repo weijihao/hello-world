@@ -1,0 +1,11 @@
+{
+    "name": "trident/hello-world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weijihao",
+            "email": "1005474666@qq.com"
+        }
+    ],
+    "require": {}
+}
