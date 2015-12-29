@@ -1,5 +1,6 @@
 {
     "name": "trident/hello-world",
+    "description": "This is a hello world repo for composer.",
     "license": "MIT",
     "authors": [
         {
@@ -7,5 +8,8 @@
             "email": "1005474666@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "weijihao\\Demo\\": "src" }
+    },
     "require": {}
 }
