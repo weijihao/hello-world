@@ -1,11 +1,11 @@
 <?php
 require_once "vendor/autoload.php";
 
-$hello = new weijihao\Demo\hello();
+$hello = new Weijihao\Demo\hello();
 echo $hello->hello();
 
 echo "\n";
 
-$hiGirl = new weijihao\Demo\hello('My Goddess');
+$hiGirl = new Weijihao\Demo\hello('My Goddess');
 echo $hiGirl->hello();
 

@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "weijihao\\Demo\\": "src" }
+        "psr-4": { "Weijihao\\Demo\\": "src" }
     },
     "require": {}
 }
