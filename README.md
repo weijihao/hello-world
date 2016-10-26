@@ -1,6 +1,7 @@
 # Hello World #
 
 This is a hello world package for php composer beginners tutorial.
+这是一个 php composer 学习教程的 hello world 包。
 
 ## Usage ##
 ```bash
@@ -8,12 +9,12 @@ This is a hello world package for php composer beginners tutorial.
 2 touch test.php
 ```
 
-test.php
+test.php 代码如下：
 ```php
 <?php
 require_once "vendor/autoload.php";
 
-$hello = new Rivsen\Demo\Hello();
+$hello = new Weijihao\Demo\Hello();
 echo $hello->hello();
 ```
 
