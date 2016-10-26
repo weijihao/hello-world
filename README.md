@@ -4,7 +4,7 @@ This is a hello world package for php composer beginners tutorial.
 
 ## Usage ##
 ```bash
-1 composer require rivsen/hello-world
+1 composer require weijihao/hello-world
 2 touch test.php
 ```
 
