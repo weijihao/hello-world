@@ -1,7 +1,7 @@
 <?php
 namespace Weijihao\Demo;
 
-class hello 
+class Hello 
 {
     private $name;
 
@@ -17,6 +17,6 @@ class hello
 
     public function hello()
     {
-        return 'Hello' . $this->name . '!';
+        return 'Hello, ' . $this->name . "! ";
     }
 }
