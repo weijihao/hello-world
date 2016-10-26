@@ -1,5 +1,5 @@
 <?php
-namespace weijihao\Demo;
+namespace Weijihao\Demo;
 
 class hello 
 {
