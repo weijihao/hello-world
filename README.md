@@ -15,7 +15,7 @@ test.php 代码如下：
 <?php
 require_once "vendor/autoload.php";
 
-$hello = new Weijihao\Demo\Hello();
+$hello = new weijihao\Demo\Hello();
 echo $hello->hello();
 ```
 
