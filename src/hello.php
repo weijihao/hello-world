@@ -4,6 +4,7 @@ namespace Weijihao\Demo;
 /**
  * hello
  *
+ * 加一下无关紧要的注释
  **/
 class Hello 
 {
