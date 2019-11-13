@@ -24,3 +24,5 @@ $php test.php
 ```
 
 It will echo "Hello World!" then exit.
+
+尝试发布稳定版本
