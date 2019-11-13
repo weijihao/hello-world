@@ -17,6 +17,13 @@ require_once "vendor/autoload.php";
 
 $hello = new Weijihao\Demo\Hello();
 echo $hello->hello();
+
+echo "\n";
+
+$hiGirl = new Weijihao\Demo\Hello('My God !');
+
+echo $hiGirl->hello();
+
 ```
 
 ```bash
