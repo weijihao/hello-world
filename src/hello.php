@@ -1,6 +1,10 @@
 <?php
 namespace Weijihao\Demo;
 
+/**
+ * hello
+ *
+ **/
 class Hello 
 {
     private $name;
